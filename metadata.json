@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise AI Research Agent",
+  "description": "Structured enterprise AI research agent with a 10-stage autonomous research pipeline, contradiction detection, evidence comparison, knowledge base persistence, and full source traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
